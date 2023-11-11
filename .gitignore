@@ -1,3 +1,8 @@
+divide_data/
+divide_data_v2/
+venv/
+__pycache__
 *.exe
 .vscode/
-*author.txt
+dataset/
+venv/
